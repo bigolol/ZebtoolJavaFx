@@ -1,0 +1,14 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+.dragDropEnabled {
+    -fx-border-color: gray;
+    -fx-border-width: .5em;
+    -fx-border-style: dashed;
+    -fx-border-radius: .2em;
+}
